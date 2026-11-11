@@ -32,7 +32,7 @@
   - **أربعة ألوان لبطاقات المنتجات** تتناوب خلف صور المنتجات في الرئيسية والتصنيفات.
   - **الصورة في رأس الصفحات الداخلية:** رسمة لكل صفحة، أو بدون صورة، أو صورتكم الخاصة.
 - كل قسم في الرئيسية له لونه الخاص من إعدادات القسم.
-- عند استخدام صورة خلفية في الواجهة، يوضع لون اللوحة بشفافية فوق الصورة ليبقى النص واضحاً، ولعرض الصورة كما هي فعّلوا «عرض صور الخلفية بدون طبقة لون».
+- عند استخدام صورة خلفية في الواجهة، توضع طبقة بيضاء أو رمادية شفافة فوق الصورة ليبقى النص واضحاً، ولعرض الصورة كما هي فعّلوا «عرض صور الخلفية بدون طبقة شفافة». لون اللوحة يحدد عندها لون النص فقط: لون داكن لنص أبيض، أو فاتح لنص داكن.
 
 نصيحة: اختاروا ألوان بطاقات فاتحة وهادئة من لوحة علامتكم، فالنصوص تظهر عليها بلون داكن.
 
@@ -85,7 +85,7 @@ Every section starts with "Nada |" in the section list. Add, remove and reorder 
   - **Four product-card colours** that alternate behind product images on the home and category pages.
   - **Inner page header picture:** a drawing per page, no picture, or your own image.
 - Each home section also has its own colour in the section settings.
-- With a background photo in the hero, the panel colour sits see-through on top so text stays readable. To show the photo as it is, turn on «عرض صور الخلفية بدون طبقة لون» (show background photos without a colour layer).
+- With a background photo in the hero, a see-through white or grey layer sits on top so text stays readable. To show the photo as it is, turn on «عرض صور الخلفية بدون طبقة شفافة» (show background photos without the see-through layer). The panel colour then only sets the text colour: a dark colour gives white text, a light one gives dark text.
 
 Tip: pick light, soft card colours from your brand palette, since text on them is dark.
 
