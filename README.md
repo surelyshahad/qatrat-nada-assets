@@ -1,4 +1,13 @@
-# Qatrat Nada — public preview images
+# Qatrat Nada | قطرة ندى
 
-Preview thumbnails shown in the Salla theme editor for the Qatrat Nada theme's home sections.
-This repository holds images only; the theme code is private.
+A motion-first Salla theme for perfume, makeup and care stores.
+
+## Support | الدعم
+
+Questions, problems or customisation requests: **surelyshahad@gmail.com**
+
+للأسئلة أو المشاكل أو طلبات التخصيص: **surelyshahad@gmail.com**
+
+---
+
+This repository also holds the preview thumbnails shown in the Salla theme editor (`editor/`). The theme code itself is private.
