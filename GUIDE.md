@@ -14,8 +14,8 @@
 
 | القسم | ماذا يمكن تغييره | نصيحة للصور |
 |---|---|---|
-| **الواجهة الرئيسية المتحركة** | العنوان، النص، الكلمة العملاقة (تُترك فارغة لعرض اسم المتجر)، صورة المنتج الطائر، لون اللوحة، الزر ورابطه، والبطاقة الجانبية (شارة، نص، صورة، لون، زر) | صورة PNG بخلفية شفافة: ٨٠٠×١٠٠٠ للمنتج الطائر و٦٠٠×٨٠٠ للبطاقة الجانبية |
-| **المشهد (منصة هبوط المنتج)** | العنوان، الوصف، صورة المشهد أو المشهد المرسوم بلونه، وإظهار المنصة | اختياري: صورة عريضة ١٨٠٠×١٠٠٠ |
+| **الواجهة الرئيسية المتحركة** | العنوان، النص، الكلمة العملاقة (تُترك فارغة لعرض اسم المتجر)، صورة المنتج الطائر أو إخفاؤه، لون اللوحة أو صورة خلفية لها، الزر ورابطه، والبطاقة الجانبية (شارة، نص، صورة منتج، لون أو صورة خلفية، زر) | صورة PNG بخلفية شفافة: ٨٠٠×١٠٠٠ للمنتج الطائر و٦٠٠×٨٠٠ للبطاقة الجانبية. صور الخلفية: ١٦٠٠×١٢٠٠ للوحة و٨٠٠×١٠٠٠ للبطاقة |
+| **المشهد (منصة هبوط المنتج)** | العنوان، الوصف، صورة المشهد أو المشهد المرسوم بلونه، أربع صور منتجات على رفوف المشهد المرسوم، وإظهار المنصة | اختياري: صورة عريضة ١٨٠٠×١٠٠٠ |
 | **شريط كلمات متحرك** | حتى ١٢ كلمة أو جملة قصيرة، ولون الشريط | — |
 | **منتجات عائمة** | العنوان، اختيار حتى ٨ منتجات من متجركم، وزر «عرض الكل» | تُستخدم صور المنتجات نفسها، والصور ذات الخلفية البيضاء تندمج مع لون البطاقة |
 | **بطاقات الأقسام المتراكبة** | حتى ٦ بطاقات: عنوان، وصف، صورة، لون، زر، رابط | اختياري: ٩٠٠×٩٠٠ بخلفية شفافة |
@@ -30,7 +30,9 @@
   - لون خلفية المتجر، ولون النصوص الداكن.
   - لون رأس الصفحات الداخلية (يُترك فارغاً ليأخذ كل نوع صفحة لونه الخاص).
   - **أربعة ألوان لبطاقات المنتجات** تتناوب خلف صور المنتجات في الرئيسية والتصنيفات.
+  - **الصورة في رأس الصفحات الداخلية:** رسمة لكل صفحة، أو بدون صورة، أو صورتكم الخاصة.
 - كل قسم في الرئيسية له لونه الخاص من إعدادات القسم.
+- عند استخدام صورة خلفية في الواجهة، يوضع لون اللوحة بشفافية فوق الصورة ليبقى النص واضحاً، ويمكن إيقاف ذلك من «طبقة لون فوق صور الخلفية».
 
 نصيحة: اختاروا ألوان بطاقات فاتحة وهادئة من لوحة علامتكم، فالنصوص تظهر عليها بلون داكن.
 
@@ -65,8 +67,8 @@ Every section starts with "Nada |" in the section list. Add, remove and reorder 
 
 | Section | What you can change | Image tips |
 |---|---|---|
-| **Animated hero** | Headline, text, giant wordmark (leave empty to show your store name), the floating product image, panel colour, button and link, and the side card (badge, text, image, colour, button) | Transparent PNG: 800×1000 for the floating product, 600×800 for the side card |
-| **Scene with landing podium** | Title, description, a scene photo or the drawn scene in your colour, and the podium switch | Optional wide image, 1800×1000 |
+| **Animated hero** | Headline, text, giant wordmark (leave empty to show your store name), the floating product image (or hide it), panel colour or a background photo, button and link, and the side card (badge, text, product image, colour or background photo, button) | Transparent PNG: 800×1000 for the floating product, 600×800 for the side card. Background photos: 1600×1200 for the panel, 800×1000 for the side card |
+| **Scene with landing podium** | Title, description, a scene photo or the drawn scene in your colour, four product images for the drawn shelves, and the podium switch | Optional wide image, 1800×1000 |
 | **Marquee** | Up to 12 words or short phrases, and the strip colour | — |
 | **Floating products** | Title, up to 8 products picked from your store, and a "view all" button | Uses your product photos; white studio backgrounds blend into the card colour |
 | **Stacking category cards** | Up to 6 cards: title, description, image, colour, button, link | Optional, 900×900 transparent |
@@ -81,7 +83,9 @@ Every section starts with "Nada |" in the section list. Add, remove and reorder 
   - Store background colour and dark text colour.
   - Inner page header colour (leave empty to give each page type its own colour).
   - **Four product-card colours** that alternate behind product images on the home and category pages.
+  - **Inner page header picture:** a drawing per page, no picture, or your own image.
 - Each home section also has its own colour in the section settings.
+- With a background photo in the hero, the panel colour sits see-through on top so text stays readable. Turn it off with «طبقة لون فوق صور الخلفية» (colour layer over background photos).
 
 Tip: pick light, soft card colours from your brand palette, since text on them is dark.
 
