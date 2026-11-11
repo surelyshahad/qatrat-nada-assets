@@ -27,6 +27,7 @@
 ### ٣. ألوان العلامة التجارية
 - **اللون الأساسي:** يُؤخذ من لون متجركم في إعدادات سلة ويُستخدم للأزرار والأسعار المخفّضة والتفاصيل.
 - من إعدادات القالب، تحت **«حركة وألوان ندى»**:
+  - **شعار المتجر وأيقونة تبويب المتصفح في القالب** (اختياري): يحلان محل شعار المتجر وأيقونته من إعدادات سلة.
   - لون خلفية المتجر، أو صورة خلفية (تغطية كاملة أو نقش متكرر)، ولون النصوص الداكن.
   - **لون البطاقات والمربعات:** شريط القائمة، الشارات، الأزرار الفاتحة، صناديق السلة وصفحة المنتج، الفلاتر وحقول الإدخال.
   - **لون التذييل ولون نصوصه** (اختياري، بدل الوضع الداكن أو الفاتح).
@@ -90,6 +91,7 @@ Every section starts with "Nada |" in the section list. Add, remove and reorder 
 ### 3. Brand colours
 - **Primary colour:** taken from your store colour in Salla settings and used for buttons, sale prices and accents.
 - In the theme settings, under **«حركة وألوان ندى»** (Nada motion and colours):
+  - **Theme logo and browser-tab icon** (optional): replace the store logo and icon from the Salla settings.
   - Store background colour or a background image (full cover or repeating pattern), and dark text colour.
   - **Card and box colour:** the menu bar, badges, light buttons, cart and product-page boxes, filters and inputs.
   - **Footer colour and footer text colour** (optional, instead of the dark/light switch).
