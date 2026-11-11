@@ -16,7 +16,7 @@
 |---|---|---|
 | **الواجهة الرئيسية المتحركة** | العنوان، النص، الكلمة العملاقة (تُترك فارغة لعرض اسم المتجر)، صورة المنتج الطائر (أو إخفاؤه من «إخفاء المنتج الطائر»)، لون اللوحة أو صورة خلفية لها، الزر ورابطه، والبطاقة الجانبية (شارة، نص، صورة منتج، لون أو صورة خلفية، زر) | صورة PNG بخلفية شفافة: ٨٠٠×١٠٠٠ للمنتج الطائر و٦٠٠×٨٠٠ للبطاقة الجانبية. صور الخلفية: ١٦٠٠×١٢٠٠ للوحة و٨٠٠×١٠٠٠ للبطاقة |
 | **المشهد (منصة هبوط المنتج)** | العنوان، الوصف، صورة المشهد أو المشهد المرسوم بلونه، أربع صور منتجات على رفوف المشهد المرسوم، وإظهار المنصة | اختياري: صورة عريضة ١٨٠٠×١٠٠٠ |
-| **شريط كلمات متحرك** | حتى ١٢ كلمة أو جملة قصيرة، ولون الشريط | — |
+| **شريط كلمات متحرك** | حتى ١٢ كلمة أو جملة قصيرة، لون الشريط، والأيقونة بين الكلمات: نجمة لامعة، نجمة، قلب، قطرة، زهرة، ورقة شجر، هلال، ماسة، دائرة، بدون أيقونة، أو أيقونتكم الخاصة، مع لونها وإيقاف دورانها | الأيقونة الخاصة: صورة صغيرة مربعة PNG أو SVG بخلفية شفافة |
 | **منتجات عائمة** | العنوان، اختيار حتى ٨ منتجات من متجركم، وزر «عرض الكل» | تُستخدم صور المنتجات نفسها، والصور ذات الخلفية البيضاء تندمج مع لون البطاقة |
 | **بطاقات الأقسام المتراكبة** | حتى ٦ بطاقات: عنوان، وصف، صورة، لون، زر، رابط | اختياري: ٩٠٠×٩٠٠ بخلفية شفافة |
 | **معرض مع بطاقتين** | حتى ٦ شرائح (صورة، تعليق، رابط) وبطاقتان (سطر علوي، عنوان، صورة، لون، زر) | الشرائح ١٦٠٠×١١٠٠، وصور البطاقتين PNG شفافة |
@@ -69,7 +69,7 @@ Every section starts with "Nada |" in the section list. Add, remove and reorder 
 |---|---|---|
 | **Animated hero** | Headline, text, giant wordmark (leave empty to show your store name), the floating product image (or hide it with «إخفاء المنتج الطائر»), panel colour or a background photo, button and link, and the side card (badge, text, product image, colour or background photo, button) | Transparent PNG: 800×1000 for the floating product, 600×800 for the side card. Background photos: 1600×1200 for the panel, 800×1000 for the side card |
 | **Scene with landing podium** | Title, description, a scene photo or the drawn scene in your colour, four product images for the drawn shelves, and the podium switch | Optional wide image, 1800×1000 |
-| **Marquee** | Up to 12 words or short phrases, and the strip colour | — |
+| **Marquee** | Up to 12 words or short phrases, the strip colour, and the icon between words: sparkle, star, heart, drop, flower, leaf, moon, diamond, dot, none, or your own, plus its colour and a switch to stop it spinning | Custom icon: a small square transparent PNG or SVG |
 | **Floating products** | Title, up to 8 products picked from your store, and a "view all" button | Uses your product photos; white studio backgrounds blend into the card colour |
 | **Stacking category cards** | Up to 6 cards: title, description, image, colour, button, link | Optional, 900×900 transparent |
 | **Spotlight gallery** | Up to 6 slides (image, caption, link) and two cards (small top line, title, image, colour, button) | Slides 1600×1100; card images transparent PNG |
