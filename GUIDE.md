@@ -42,6 +42,14 @@
 - **خط النصوص:** خط المتجر (الافتراضي)، أو El Messiri، أو Alexandria، أو Readex Pro، أو IBM Plex Sans Arabic، أو Noto Kufi Arabic، أو Amiri.
 - **خط العناوين:** نفس خط النصوص (الافتراضي)، أو Gulzar، أو El Messiri، أو Alexandria، أو Reem Kufi، أو Noto Kufi Arabic، أو Amiri. يُستخدم للعناوين الكبيرة واسم المتجر والشريط المتحرك فقط.
 
+### الوضع الليلي
+من إعدادات القالب، تحت **«الوضع الليلي»**:
+- **بدون وضع ليلي** (الافتراضي).
+- **زر في القائمة للتبديل:** يظهر زر قمر/شمس في القائمة العلوية، ويبدأ المتجر حسب إعداد جهاز الزائر ثم يتذكر اختياره.
+- **تلقائي حسب جهاز الزائر فقط.**
+
+يمكن تغيير لون الخلفية والنصوص والمربعات ليلاً. الأقسام والبطاقات الملوّنة تحتفظ بألوانها في الوضع الليلي.
+
 ### ٥. الحركة
 - يمكن إيقاف كل الحركة من زر **«تفعيل الحركة والمؤثرات»** في إعدادات القالب.
 - تتوقف الحركة تلقائياً للزوار الذين فعّلوا «تقليل الحركة» في أجهزتهم.
@@ -96,6 +104,14 @@ Tip: pick light, soft card colours from your brand palette, since text on them i
 ### 4. Fonts
 - **Text font:** your store font (default), El Messiri, Alexandria, Readex Pro, IBM Plex Sans Arabic, Noto Kufi Arabic or Amiri.
 - **Headline font:** same as text (default), Gulzar, El Messiri, Alexandria, Reem Kufi, Noto Kufi Arabic or Amiri. Used only for large headlines, the store wordmark and the marquee.
+
+### Night mode
+In the theme settings, under **«الوضع الليلي»** (night mode):
+- **Off** (default).
+- **Toggle button in the menu:** a moon/sun button appears in the header. The store starts from the visitor's device setting and remembers their choice.
+- **Automatic, following the visitor's device only.**
+
+The night background, text and box colours are editable. Coloured sections and cards keep their colours at night.
 
 ### 5. Motion
 - Turn all motion off with the **«تفعيل الحركة والمؤثرات»** switch (enable motion and effects).
