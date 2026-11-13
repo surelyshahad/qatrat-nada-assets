@@ -17,10 +17,10 @@
 | **الواجهة الرئيسية المتحركة** | العنوان، النص، الكلمة العملاقة (تُترك فارغة لعرض اسم المتجر)، صورة المنتج الطائر (أو إخفاؤه من «إخفاء المنتج الطائر»)، لون اللوحة أو صورة خلفية لها، الزر ورابطه، والبطاقة الجانبية (شارة، نص، صورة منتج، لون أو صورة خلفية، زر) | صورة PNG بخلفية شفافة: ٨٠٠×١٠٠٠ للمنتج الطائر و٦٠٠×٨٠٠ للبطاقة الجانبية. صور الخلفية: ١٦٠٠×١٢٠٠ للوحة و٨٠٠×١٠٠٠ للبطاقة |
 | **المشهد (منصة هبوط المنتج)** | العنوان، الوصف، صورة المشهد أو المشهد المرسوم بلونه، أربع صور منتجات على رفوف المشهد المرسوم، وإظهار المنصة | اختياري: صورة عريضة ١٨٠٠×١٠٠٠ |
 | **شريط كلمات متحرك** | حتى ١٢ كلمة أو جملة قصيرة، لون الشريط، والأيقونة بين الكلمات: نجمة لامعة، نجمة، قلب، قطرة، زهرة، ورقة شجر، هلال، ماسة، دائرة، بدون أيقونة، أو أيقونتكم الخاصة، مع لونها وإيقاف دورانها | الأيقونة الخاصة: صورة صغيرة مربعة PNG أو SVG بخلفية شفافة |
-| **منتجات عائمة** | العنوان، اختيار حتى ٨ منتجات من متجركم، وزر «عرض الكل» | تُستخدم صور المنتجات نفسها، والصور ذات الخلفية البيضاء تندمج مع لون البطاقة |
+| **منتجات عائمة** | العنوان، اختيار حتى ٨ منتجات من متجركم، وزر «عرض الكل». في قطرة ندى 2، إذا لم تختاروا منتجات يعرض القسم أكثر ٤ منتجات مبيعاً (أو أحدث المنتجات إن لم تُبع منتجات بعد) | تُستخدم صور المنتجات نفسها، والصور ذات الخلفية البيضاء تندمج مع لون البطاقة |
 | **بطاقات الأقسام المتراكبة** | حتى ٦ بطاقات: عنوان، وصف، صورة، لون، زر، رابط | اختياري: ٩٠٠×٩٠٠ بخلفية شفافة |
 | **معرض مع بطاقتين** | حتى ٦ شرائح (صورة، تعليق، رابط) وبطاقتان (سطر علوي، عنوان، صورة، لون، زر) | الشرائح ١٦٠٠×١١٠٠، وصور البطاقتين PNG شفافة |
-| **اقتباسات وآراء** | العنوان وحتى ٨ آراء مع اسم صاحبها | — |
+| **اقتباسات وآراء** | العنوان وحتى ٨ آراء مع اسم صاحبها. في قطرة ندى 2 أيضاً: أيقونة فوق كل رأي من نفس أيقونات الشريط المتحرك أو أيقونتكم الخاصة، مع لونها | الأيقونة الخاصة: صورة صغيرة مربعة PNG أو SVG بخلفية شفافة |
 
 > المنتج الطائر في الواجهة يهبط على منصة قسم «المشهد»، لذلك ضعوا قسم المشهد مباشرة بعد الواجهة ليظهر الانتقال.
 
@@ -34,6 +34,7 @@
   - لون رأس الصفحات الداخلية (يُترك فارغاً ليأخذ كل نوع صفحة لونه الخاص).
   - **أربعة ألوان لبطاقات المنتجات** تتناوب خلف صور المنتجات في الرئيسية والتصنيفات.
   - **الصورة في رأس الصفحات الداخلية:** رسمة لكل صفحة، أو بدون صورة، أو صورتكم الخاصة.
+  - **رأس صفحات الحساب ورأس صفحة السلة** (قطرة ندى 2 فقط): لكل منهما لونه ورسمته (سيروم، عطر، أحمر شفاه، علبة كريم، أنبوب، أو بدون رسمة) وصورة خاصة اختيارية. إذا تُركت فارغة تتبع إعدادات رأس الصفحات الداخلية.
 - كل قسم في الرئيسية له لونه الخاص من إعدادات القسم.
 - عند استخدام صورة خلفية في الواجهة، توضع طبقة بيضاء أو رمادية شفافة فوق الصورة ليبقى النص واضحاً، ولعرض الصورة كما هي فعّلوا «عرض صور الخلفية بدون طبقة شفافة». لون اللوحة يحدد عندها لون النص فقط: لون داكن لنص أبيض، أو فاتح لنص داكن.
 
@@ -42,8 +43,9 @@
 ### ٤. الخطوط
 - **خط النصوص:** خط المتجر (الافتراضي)، أو El Messiri، أو Alexandria، أو Readex Pro، أو IBM Plex Sans Arabic، أو Noto Kufi Arabic، أو Amiri.
 - **خط العناوين:** نفس خط النصوص (الافتراضي)، أو Gulzar، أو El Messiri، أو Alexandria، أو Reem Kufi، أو Noto Kufi Arabic، أو Amiri. يُستخدم للعناوين الكبيرة واسم المتجر والشريط المتحرك فقط.
+- **الخط الإنجليزي** (قطرة ندى 2 فقط): Outfit (الافتراضي)، أو Figtree، أو Plus Jakarta Sans، أو الحروف الإنجليزية في خط النصوص نفسه. يُستخدم للنصوص الإنجليزية.
 
-### الوضع الليلي
+### ٥. الوضع الليلي
 من إعدادات القالب، تحت **«الوضع الليلي»**:
 - **بدون وضع ليلي** (الافتراضي).
 - **زر في القائمة للتبديل:** يظهر زر قمر/شمس في القائمة العلوية، ويبدأ المتجر حسب إعداد جهاز الزائر ثم يتذكر اختياره.
@@ -51,15 +53,22 @@
 
 يمكن تغيير لون الخلفية والنصوص والمربعات ليلاً. الأقسام والبطاقات الملوّنة تحتفظ بألوانها في الوضع الليلي.
 
-### ٥. الحركة
+### ٦. الحركة
 - يمكن إيقاف كل الحركة من زر **«تفعيل الحركة والمؤثرات»** في إعدادات القالب.
 - تتوقف الحركة تلقائياً للزوار الذين فعّلوا «تقليل الحركة» في أجهزتهم.
 
-### ٦. اللغة الإنجليزية
+### ٧. إعدادات أخرى (قطرة ندى 2 فقط)
+- **تخطيط رأس الصفحة:** المبسّط أو الافتراضي، مع عرض معلومات المتجر أسفل الشريط الرئيسي، وشريط علوي داكن، وروابط الصفحات الهامة في الشريط العلوي.
+- **بطاقة المنتج:** شكلها (عمودي أو أفقي) وشكل صورتها.
+- **صفحة المنتج:** عرض خيارات المنتج في لوحة قابلة للطي.
+
+### ٨. اللغة الإنجليزية
 فعّلوا الإنجليزية من إعدادات اللغات في سلة، ثم اكتبوا النص الإنجليزي لكل حقل في المحرر بالتبديل إلى الإنجليزية. يتحول التصميم تلقائياً من اليمين لليسار إلى اليسار لليمين.
 
-### ٧. أسئلة شائعة
-- **لا يظهر قسم المنتجات العائمة؟** اختاروا منتجاً واحداً على الأقل في إعدادات القسم.
+في قطرة ندى 2، النصوص الافتراضية التي لم تغيّروها تظهر بالإنجليزية تلقائياً في الصفحات الإنجليزية، فلا تحتاجون إلا لكتابة الإنجليزية للنصوص التي عدّلتموها.
+
+### ٩. أسئلة شائعة
+- **لا يظهر قسم المنتجات العائمة؟** في قطرة ندى: اختاروا منتجاً واحداً على الأقل في إعدادات القسم. في قطرة ندى 2: يظهر القسم دائماً، إلا إذا حُذفت كل المنتجات المختارة أو أُخفيت، فاختاروا منتجات أخرى أو احذفوا الاختيار ليعرض الأكثر مبيعاً.
 - **تظهر حواف بيضاء حول صورة المنتج؟** استخدموا صورة PNG بخلفية شفافة.
 - **لا تظهر تعديلاتي؟** احفظوا في المحرر ثم حدّثوا الصفحة.
 
@@ -81,10 +90,10 @@ Every section starts with "Nada |" in the section list. Add, remove and reorder 
 | **Animated hero** | Headline, text, giant wordmark (leave empty to show your store name), the floating product image (or hide it with «إخفاء المنتج الطائر»), panel colour or a background photo, button and link, and the side card (badge, text, product image, colour or background photo, button) | Transparent PNG: 800×1000 for the floating product, 600×800 for the side card. Background photos: 1600×1200 for the panel, 800×1000 for the side card |
 | **Scene with landing podium** | Title, description, a scene photo or the drawn scene in your colour, four product images for the drawn shelves, and the podium switch | Optional wide image, 1800×1000 |
 | **Marquee** | Up to 12 words or short phrases, the strip colour, and the icon between words: sparkle, star, heart, drop, flower, leaf, moon, diamond, dot, none, or your own, plus its colour and a switch to stop it spinning | Custom icon: a small square transparent PNG or SVG |
-| **Floating products** | Title, up to 8 products picked from your store, and a "view all" button | Uses your product photos; white studio backgrounds blend into the card colour |
+| **Floating products** | Title, up to 8 products picked from your store, and a "view all" button. In Qatrat Nada V2, with no products picked the section shows your 4 best sellers (or your newest products if nothing has sold yet) | Uses your product photos; white studio backgrounds blend into the card colour |
 | **Stacking category cards** | Up to 6 cards: title, description, image, colour, button, link | Optional, 900×900 transparent |
 | **Spotlight gallery** | Up to 6 slides (image, caption, link) and two cards (small top line, title, image, colour, button) | Slides 1600×1100; card images transparent PNG |
-| **Quotes** | Title and up to 8 quotes with a name | — |
+| **Quotes** | Title and up to 8 quotes with a name. In Qatrat Nada V2 also an icon above each quote, from the marquee's icons or your own, with its colour | Custom icon: a small square transparent PNG or SVG |
 
 > The hero product lands on the podium in the Scene section, so place Scene directly after the hero to see the hand-off.
 
@@ -98,6 +107,7 @@ Every section starts with "Nada |" in the section list. Add, remove and reorder 
   - Inner page header colour (leave empty to give each page type its own colour).
   - **Four product-card colours** that alternate behind product images on the home and category pages.
   - **Inner page header picture:** a drawing per page, no picture, or your own image.
+  - **Account pages header and cart page header** (Qatrat Nada V2 only): each has its own colour, drawing (serum, perfume, lipstick, cream jar, tube, or none) and optional image. Left empty, they follow the inner page header settings.
 - Each home section also has its own colour in the section settings.
 - With a background photo in the hero, a see-through white or grey layer sits on top so text stays readable. To show the photo as it is, turn on «عرض صور الخلفية بدون طبقة شفافة» (show background photos without the see-through layer). The panel colour then only sets the text colour: a dark colour gives white text, a light one gives dark text.
 
@@ -106,8 +116,9 @@ Tip: pick light, soft card colours from your brand palette, since text on them i
 ### 4. Fonts
 - **Text font:** your store font (default), El Messiri, Alexandria, Readex Pro, IBM Plex Sans Arabic, Noto Kufi Arabic or Amiri.
 - **Headline font:** same as text (default), Gulzar, El Messiri, Alexandria, Reem Kufi, Noto Kufi Arabic or Amiri. Used only for large headlines, the store wordmark and the marquee.
+- **English font** («الخط الإنجليزي», Qatrat Nada V2 only): Outfit (default), Figtree, Plus Jakarta Sans, or the text font's own Latin letters. Used for English text.
 
-### Night mode
+### 5. Night mode
 In the theme settings, under **«الوضع الليلي»** (night mode):
 - **Off** (default).
 - **Toggle button in the menu:** a moon/sun button appears in the header. The store starts from the visitor's device setting and remembers their choice.
@@ -115,15 +126,22 @@ In the theme settings, under **«الوضع الليلي»** (night mode):
 
 The night background, text and box colours are editable. Coloured sections and cards keep their colours at night.
 
-### 5. Motion
+### 6. Motion
 - Turn all motion off with the **«تفعيل الحركة والمؤثرات»** switch (enable motion and effects).
 - Motion pauses automatically for visitors who have "reduce motion" turned on.
 
-### 6. English
+### 7. Other settings (Qatrat Nada V2 only)
+- **Header layout:** Lite or Default, with store info under the menu bar, a dark top bar, and important page links in the top bar.
+- **Product card:** its layout (vertical or horizontal) and image shape.
+- **Product page:** product options in a collapsible panel.
+
+### 8. English
 Enable English in Salla's language settings, then switch the editor to English and fill in each field's English text. The layout flips from right-to-left to left-to-right automatically.
 
-### 7. FAQ
-- **Floating products section doesn't show?** Pick at least one product in the section settings.
+In Qatrat Nada V2, default texts you haven't changed already show in English on English pages, so you only need to write English for the texts you edited.
+
+### 9. FAQ
+- **Floating products section doesn't show?** In Qatrat Nada: pick at least one product in the section settings. In Qatrat Nada V2 the section always shows, unless every product you picked was deleted or hidden: pick other products, or clear the selection to show your best sellers.
 - **White edges around a product image?** Use a transparent PNG.
 - **Changes don't appear?** Save in the editor, then refresh the page.
 
