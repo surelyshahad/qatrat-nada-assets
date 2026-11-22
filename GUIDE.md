@@ -16,11 +16,16 @@
 |---|---|---|
 | **الواجهة الرئيسية المتحركة** | العنوان، النص، الكلمة العملاقة (تُترك فارغة لعرض اسم المتجر)، صورة المنتج الطائر (أو إخفاؤه من «إخفاء المنتج الطائر»)، لون اللوحة أو صورة خلفية لها، الزر ورابطه، والبطاقة الجانبية (شارة، نص، صورة منتج، لون أو صورة خلفية، زر) | صورة PNG بخلفية شفافة: ٨٠٠×١٠٠٠ للمنتج الطائر و٦٠٠×٨٠٠ للبطاقة الجانبية. صور الخلفية: ١٦٠٠×١٢٠٠ للوحة و٨٠٠×١٠٠٠ للبطاقة |
 | **المشهد (منصة هبوط المنتج)** | العنوان، الوصف، صورة المشهد أو المشهد المرسوم بلونه، أربع صور منتجات على رفوف المشهد المرسوم، وإظهار المنصة | اختياري: صورة عريضة ١٨٠٠×١٠٠٠ |
-| **شريط كلمات متحرك** | حتى ١٢ كلمة أو جملة قصيرة، لون الشريط، والأيقونة بين الكلمات: نجمة لامعة، نجمة، قلب، قطرة، زهرة، ورقة شجر، هلال، ماسة، دائرة، بدون أيقونة، أو أيقونتكم الخاصة، مع لونها وإيقاف دورانها | الأيقونة الخاصة: صورة صغيرة مربعة PNG أو SVG بخلفية شفافة |
+| **شريط كلمات متحرك** | حتى ١٢ كلمة أو جملة قصيرة، لون الشريط، والأيقونة بين الكلمات: نجمة لامعة، نجمة، قلب، قطرة، زهرة، ورقة شجر، هلال، ماسة، دائرة، بدون أيقونة، أو أيقونتكم الخاصة، مع لونها وإيقاف دورانها. في قطرة ندى 2 أيضاً: رابط لكل كلمة، لون الكلمات وحجمها، السرعة والاتجاه، الإيقاف عند مرور المؤشر، والعرض بكامل الشاشة | الأيقونة الخاصة: صورة صغيرة مربعة PNG أو SVG بخلفية شفافة |
 | **منتجات عائمة** | العنوان، اختيار حتى ٨ منتجات من متجركم، وزر «عرض الكل». في قطرة ندى 2، إذا لم تختاروا منتجات يعرض القسم أكثر ٤ منتجات مبيعاً (أو أحدث المنتجات إن لم تُبع منتجات بعد) | تُستخدم صور المنتجات نفسها، والصور ذات الخلفية البيضاء تندمج مع لون البطاقة |
 | **بطاقات الأقسام المتراكبة** | حتى ٦ بطاقات: عنوان، وصف، صورة، لون، زر، رابط | اختياري: ٩٠٠×٩٠٠ بخلفية شفافة |
 | **معرض مع بطاقتين** | حتى ٦ شرائح (صورة، تعليق، رابط) وبطاقتان (سطر علوي، عنوان، صورة، لون، زر) | الشرائح ١٦٠٠×١١٠٠، وصور البطاقتين PNG شفافة |
 | **اقتباسات وآراء** | العنوان وحتى ٨ آراء مع اسم صاحبها. في قطرة ندى 2 أيضاً: أيقونة فوق كل رأي من نفس أيقونات الشريط المتحرك أو أيقونتكم الخاصة، مع لونها | الأيقونة الخاصة: صورة صغيرة مربعة PNG أو SVG بخلفية شفافة |
+| **مميزات المتجر** (قطرة ندى 2) | العنوان والوصف، وحتى ٨ مميزات (أيقونة جاهزة أو خاصة، عنوان، وصف، رابط)، والشكل: بطاقات أو شريط مدمج، عدد الأعمدة، العرض على الجوال، المحاذاة، مكان الأيقونة وشكلها وحجمها، والخطوط الفاصلة وكل الألوان | الأيقونة الخاصة: صورة صغيرة مربعة PNG أو SVG بخلفية شفافة |
+| **تسوّقي حسب احتياجك** (قطرة ندى 2) | العنوان والوصف، وحتى ١٠ احتياجات (عنوان، وصف، أيقونة أو صورة، لون، رابط، ومنتجات من تصنيف أو وسم أو منتجات مختارة). تُعرض بطاقات تنقل لصفحاتها، أو تبويبات تعرض منتجات كل احتياج، بثلاثة أشكال للبطاقات وكل الألوان | صور البطاقات ٦٠٠×٦٠٠ |
+| **فيديو تعريفي** (قطرة ندى 2) | رابط يوتيوب (ومنه Shorts) أو فيميو أو ملف MP4، صورة الغلاف، التشغيل عند الضغط أو تلقائياً بدون صوت، الأبعاد (منها الطولي ٩:١٦)، العنوان والنص والزر، وثلاث طرق عرض وكل الألوان. لا يظهر القسم حتى تضيفوا رابط الفيديو | صورة الغلاف ١٢٨٠×٧٢٠ |
+| **عرض محدود مع عداد** (قطرة ندى 2) | عداد حتى تاريخ محدد أو عرض يومي يتجدد، تاريخ بدء اختياري، التوقيت، ما يحدث عند الانتهاء، المنتجات تحت العداد (المخفّضة، المختارة، من تصنيف...)، النصوص والزر، وثلاث طرق عرض وكل الألوان. يُكتب التاريخ بالشكل ٢٠٢٦-١٢-٣١ ٢٣:٥٩ | صورة العرض ١٢٠٠×٩٠٠ |
+| **النشرة والعروض الخاصة** (قطرة ندى 2) | طريقة الاشتراك: حساب في المتجر (نافذة تسجيل سلة)، أو نموذج خارجي، أو واتساب. العنوان والنص ومزايا الاشتراك والزر ورسالة المشترك، وثلاث طرق عرض وكل الألوان | الصورة ٩٠٠×٩٠٠ |
 
 > المنتج الطائر في الواجهة يهبط على منصة قسم «المشهد»، لذلك ضعوا قسم المشهد مباشرة بعد الواجهة ليظهر الانتقال.
 
@@ -61,6 +66,8 @@
 - **تخطيط رأس الصفحة:** المبسّط أو الافتراضي، مع عرض معلومات المتجر أسفل الشريط الرئيسي، وشريط علوي داكن، وروابط الصفحات الهامة في الشريط العلوي.
 - **بطاقة المنتج:** شكلها (عمودي أو أفقي) وشكل صورتها.
 - **صفحة المنتج:** عرض خيارات المنتج في لوحة قابلة للطي.
+- **تفاصيل المنتج الإضافية:** الحقول المخصصة التي تضيفونها لكل منتج في لوحة سلة (مثل المكونات وطريقة الاستخدام ودليل المقاسات و«مناسب لـ»). اختاروا مكانها (تحت الصور، تحت الوصف، أو بعرض الصفحة)، وشكلها (قوائم قابلة للطي، تبويبات، أو بطاقات)، وعرض الاختيارات والوسوم كشارات، والألوان.
+- **أقسام أخرى بإعدادات أكثر:** «منتج مميز + منتجات» (عنوان ووصف، مكان المنتج المميز، عدد المنتجات، شارة، رابط «عرض الكل»، لون الخلفية) و«صور مربعة (محسنة)» (عنوان ووصف، أحجام متساوية، الارتفاع، الطبقة الداكنة، إظهار النصوص دائماً، نص زر لكل صورة).
 
 ### ٨. اللغة الإنجليزية
 فعّلوا الإنجليزية من إعدادات اللغات في سلة، ثم اكتبوا النص الإنجليزي لكل حقل في المحرر بالتبديل إلى الإنجليزية. يتحول التصميم تلقائياً من اليمين لليسار إلى اليسار لليمين.
@@ -89,11 +96,16 @@ Every section starts with "Nada |" in the section list. Add, remove and reorder 
 |---|---|---|
 | **Animated hero** | Headline, text, giant wordmark (leave empty to show your store name), the floating product image (or hide it with «إخفاء المنتج الطائر»), panel colour or a background photo, button and link, and the side card (badge, text, product image, colour or background photo, button) | Transparent PNG: 800×1000 for the floating product, 600×800 for the side card. Background photos: 1600×1200 for the panel, 800×1000 for the side card |
 | **Scene with landing podium** | Title, description, a scene photo or the drawn scene in your colour, four product images for the drawn shelves, and the podium switch | Optional wide image, 1800×1000 |
-| **Marquee** | Up to 12 words or short phrases, the strip colour, and the icon between words: sparkle, star, heart, drop, flower, leaf, moon, diamond, dot, none, or your own, plus its colour and a switch to stop it spinning | Custom icon: a small square transparent PNG or SVG |
+| **Marquee** | Up to 12 words or short phrases, the strip colour, and the icon between words: sparkle, star, heart, drop, flower, leaf, moon, diamond, dot, none, or your own, plus its colour and a switch to stop it spinning. In Qatrat Nada V2 also: a link per word, word colour and size, speed and direction, pause on hover, and full width | Custom icon: a small square transparent PNG or SVG |
 | **Floating products** | Title, up to 8 products picked from your store, and a "view all" button. In Qatrat Nada V2, with no products picked the section shows your 4 best sellers (or your newest products if nothing has sold yet) | Uses your product photos; white studio backgrounds blend into the card colour |
 | **Stacking category cards** | Up to 6 cards: title, description, image, colour, button, link | Optional, 900×900 transparent |
 | **Spotlight gallery** | Up to 6 slides (image, caption, link) and two cards (small top line, title, image, colour, button) | Slides 1600×1100; card images transparent PNG |
 | **Quotes** | Title and up to 8 quotes with a name. In Qatrat Nada V2 also an icon above each quote, from the marquee's icons or your own, with its colour | Custom icon: a small square transparent PNG or SVG |
+| **Store features** (V2) | Title and description, up to 8 features (built-in or custom icon, title, text, link), and the look: cards or a compact strip, columns, mobile layout, alignment, icon position, shape and size, dividers and every colour | Custom icon: a small square transparent PNG or SVG |
+| **Shop by need** (V2) | Title and description, up to 10 needs (title, text, icon or image, colour, link, and products from a category, tag or picked products). Shown as cards that link to their pages, or as tabs that show each need's products, in three card styles with every colour | Card images 600×600 |
+| **Video** (V2) | A YouTube (including Shorts), Vimeo or MP4 link, a cover image, click to play or muted autoplay, the aspect ratio (including vertical 9:16), title, text and button, three layouts and every colour. The section stays hidden until you add a video link | Cover 1280×720 |
+| **Limited offer countdown** (V2) | Count down to a date or run a daily offer, an optional start date, the timezone, what happens when it ends, the products under the timer (on sale, picked, from a category…), texts and button, three layouts and every colour. Write the date as 2026-12-31 23:59 | Offer image 1200×900 |
+| **Newsletter and special offers** (V2) | How visitors sign up: a store account (Salla's login window), an external form, or WhatsApp. Title, text, perks, button and the message subscribers see, three layouts and every colour | Image 900×900 |
 
 > The hero product lands on the podium in the Scene section, so place Scene directly after the hero to see the hand-off.
 
@@ -134,6 +146,8 @@ The night background, text and box colours are editable. Coloured sections and c
 - **Header layout:** Lite or Default, with store info under the menu bar, a dark top bar, and important page links in the top bar.
 - **Product card:** its layout (vertical or horizontal) and image shape.
 - **Product page:** product options in a collapsible panel.
+- **Product extra details:** the custom fields you add to each product in your Salla dashboard (such as ingredients, how to use, size guide or "suitable for"). Choose where they show (under the images, under the description, or full width), how (collapsible list, tabs or cards), choices and tags as badges, and the colours.
+- **More settings in other sections:** "Featured product + products" (title and description, featured product position, number of products, a badge, a "view all" link, background colour) and "Enhanced square images" (title and description, equal sizes, height, dark overlay, always-visible text, a button label per image).
 
 ### 8. English
 Enable English in Salla's language settings, then switch the editor to English and fill in each field's English text. The layout flips from right-to-left to left-to-right automatically.
